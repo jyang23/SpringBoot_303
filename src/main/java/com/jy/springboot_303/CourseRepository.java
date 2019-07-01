@@ -1,6 +1,6 @@
 package com.jy.springboot_303;
 
-import org.springframework.data.repository.CrudRepository;
+        import org.springframework.data.repository.CrudRepository;
 
 public interface CourseRepository extends CrudRepository<Course,Long>
 {
